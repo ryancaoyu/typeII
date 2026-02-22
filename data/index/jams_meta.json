@@ -1,0 +1,456 @@
+{
+  "jam_ids": [
+    "reba-1995-12-31",
+    "david_bowie-1994-12-29",
+    "tweezer-1995-12-30",
+    "stash-1994-11-14",
+    "run_like_an_antelope-1995-10-31",
+    "ghost-1997-11-17",
+    "tube-1997-12-29",
+    "tweezer-1997-12-06",
+    "bathtub_gin-1997-08-17",
+    "simple-1997-08-16",
+    "wolfman_s_brother-1998-07-02",
+    "halley_s_comet-1998-11-07",
+    "2001-1997-09-29",
+    "sand-1999-09-14",
+    "chalk_dust_torture-1999-07-10",
+    "tweezer-1999-12-31",
+    "rock_and_roll-2000-06-14",
+    "twist-2000-06-14",
+    "piper-2000-07-06",
+    "down_with_disease-1999-09-12",
+    "scents_and_subtle_sounds-2003-02-28",
+    "crosseyed_and_painless-2004-06-19",
+    "piper-2003-07-15",
+    "seven_below-2003-02-28",
+    "ghost-2004-08-10",
+    "tweezer-2015-08-22",
+    "simple-2022-04-21",
+    "ruby_waves-2019-07-14",
+    "no_men_in_no_man_s_land-2017-07-21",
+    "everything_s_right-2018-08-31",
+    "carini-2017-08-06",
+    "light-2012-08-31",
+    "fuego-2014-07-04",
+    "bathtub_gin-2015-07-26",
+    "prince_caspian-1998-08-17",
+    "cities-1997-08-10",
+    "disease-1997-12-07",
+    "sneakin_sally-1997-08-02",
+    "maze-1995-06-22",
+    "harry_hood-1998-11-13",
+    "runaway_jim-1997-11-29",
+    "golden_age-2016-10-30",
+    "tweezer-2013-12-30",
+    "mercury-2021-08-31",
+    "a_song_i_heard_the_ocean_sing-2017-07-23",
+    "wave_of_hope-2022-08-05",
+    "the_wedge-1993-08-02",
+    "split_open_and_melt-1994-06-11",
+    "you_enjoy_myself-1995-12-09",
+    "fluffhead-1994-04-16"
+  ],
+  "by_id": {
+    "reba-1995-12-31": {
+      "song": "Reba",
+      "date": "1995-12-31",
+      "venue": "Madison Square Garden",
+      "duration_minutes": "15",
+      "era": "Mid 90s",
+      "ai_description": "This rendition of \"Reba,\" performed on December 31, 1995, at Madison Square Garden, is notable for its intense tension build and a standout \"machine-gun Trey\" section. Lasting 15 minutes, the jam features a masterfully composed peak that ultimately resolves into a major release, making it a memorable highlight from Phish's mid-90s era. Fans often revisit this performance for its dynamic interplay and emotional payoff."
+    },
+    "david_bowie-1994-12-29": {
+      "song": "David Bowie",
+      "date": "1994-12-29",
+      "venue": "Providence Civic Center",
+      "duration_minutes": "30",
+      "era": "Mid 90s",
+      "ai_description": "The \"David Bowie\" jam from December 29, 1994, at the Providence Civic Center is renowned for its dark and dissonant atmosphere, stretching over 30 minutes. Characteristic of the mid-90s era, this long-form performance builds tension while exploring ambient spaces, making it a standout example of Phish's improvisational prowess during this period. Fans appreciate its intricate dynamics and the way it pushes the boundaries of the original composition."
+    },
+    "tweezer-1995-12-30": {
+      "song": "Tweezer",
+      "date": "1995-12-30",
+      "venue": "Madison Square Garden",
+      "duration_minutes": "26",
+      "era": "Mid 90s",
+      "ai_description": "This 26-minute version of \"Tweezer\" from December 30, 1995, at Madison Square Garden is renowned for its exploratory nature and tension-building dynamics. The jam showcases significant rhythmic shifts and features several peak-driven moments, characteristic of Phish's mid-90s improvisational style. Fans appreciate this performance for its intricate interplay and the way it effectively captures the band's creative spirit during this era."
+    },
+    "stash-1994-11-14": {
+      "song": "Stash",
+      "date": "1994-11-14",
+      "venue": "Macomb Community College",
+      "duration_minutes": "14",
+      "era": "Mid 90s",
+      "ai_description": "The jam from \"Stash\" on November 14, 1994, at Macomb Community College is renowned for its intricate rhythmic complexity and tension built within a minor key framework. Spanning approximately 14 minutes, this mid-90s performance showcases the band's ability to explore dynamic shifts and extended improvisation, making it a standout rendition for fans of the era."
+    },
+    "run_like_an_antelope-1995-10-31": {
+      "song": "Run Like an Antelope",
+      "date": "1995-10-31",
+      "venue": "Rosemont Horizon",
+      "duration_minutes": "20",
+      "era": "Mid 90s",
+      "ai_description": "The \"Run Like an Antelope\" jam performed on October 31, 1995, at the Rosemont Horizon is celebrated for its intense high energy and masterful tension buildup. Spanning 20 minutes, this mid-90s rendition showcases the band’s ability to weave dissonant themes into a captivating peak, highlighting their improvisational skill and dynamic interplay. Fans consider this jam a standout example of Phish's knack for creating suspenseful and exhilarating musical moments."
+    },
+    "ghost-1997-11-17": {
+      "song": "Ghost",
+      "date": "1997-11-17",
+      "venue": "McNichols Arena",
+      "duration_minutes": "17",
+      "era": "Fall 1997",
+      "ai_description": "This 17-minute jam of \"Ghost\" from November 17, 1997, at McNichols Arena is a notable example of Phish's Fall 1997 era. Known for its infectious cow funk and groove-based exploration, it features a minor tonal shift that adds to its dynamic quality. The performance culminates in an ambient outro, showcasing the band's ability to create immersive soundscapes during this period."
+    },
+    "tube-1997-12-29": {
+      "song": "Tube",
+      "date": "1997-12-29",
+      "venue": "Madison Square Garden",
+      "duration_minutes": "15",
+      "era": "Fall 1997",
+      "ai_description": "The \"Tube\" jam from December 29, 1997, at Madison Square Garden is celebrated for its tight groove and rhythmic layering, characteristic of the Fall 1997 era. Lasting 15 minutes, this performance showcases Phish's signature cow funk style, blending intricate rhythms with a danceable energy that captures the essence of their live improvisation during this period."
+    },
+    "tweezer-1997-12-06": {
+      "song": "Tweezer",
+      "date": "1997-12-06",
+      "venue": "Auburn Hills",
+      "duration_minutes": "38",
+      "era": "Fall 1997",
+      "ai_description": "The \"Tweezer\" jam from December 6, 1997, at Auburn Hills is a standout segment from the Fall 1997 tour, known for its impressive 38-minute length. Characterized by deep funk grooves and ambient, spacey textures, this extended version showcases the band’s ability to craft immersive, long-form improvisation. Fans frequently highlight its exploratory nature and dynamic interplay, making it a notable highlight in Phish's live repertoire."
+    },
+    "bathtub_gin-1997-08-17": {
+      "song": "Bathtub Gin",
+      "date": "1997-08-17",
+      "venue": "Limestone",
+      "duration_minutes": "24",
+      "era": "Summer 1997",
+      "ai_description": "The \"Bathtub Gin\" jam from August 17, 1997, at Limestone is celebrated for its extended duration of 24 minutes, showcasing the band's signature groove and rhythmic build. This performance features an uplifting melodic peak that captures the essence of the Summer 1997 era, making it a standout version beloved by fans."
+    },
+    "simple-1997-08-16": {
+      "song": "Simple",
+      "date": "1997-08-16",
+      "venue": "Limestone",
+      "duration_minutes": "27",
+      "era": "Summer 1997",
+      "ai_description": "The jam of \"Simple\" performed on August 16, 1997, at Limestone is known for its expansive 27-minute exploration, characteristic of the ambient and patient soundscapes that defined the Summer 1997 era. This performance features a rhythmic dissolve, immersing listeners in a mesmerizing sonic journey that blends spacey improvisation with a steady, flowing groove. Fans appreciate this jam for its ability to create a tranquil yet engrossing atmosphere."
+    },
+    "wolfman_s_brother-1998-07-02": {
+      "song": "Wolfman's Brother",
+      "date": "1998-07-02",
+      "venue": "Antioch",
+      "duration_minutes": "23",
+      "era": "Summer 1998",
+      "ai_description": "This rendition of \"Wolfman's Brother,\" performed on July 2, 1998, at Antioch, is renowned for its exquisite 23-minute jam showcasing the band's signature funk and groove elements. Characterized by layered textures and a dynamic build, this performance exemplifies the improvisational prowess of Phish during the Summer 1998 era, making it a standout moment for fans of the band's live catalog."
+    },
+    "halley_s_comet-1998-11-07": {
+      "song": "Halley's Comet",
+      "date": "1998-11-07",
+      "venue": "Worcester Centrum",
+      "duration_minutes": "24",
+      "era": "Fall 1998",
+      "ai_description": "The jam of \"Halley's Comet\" performed on November 7, 1998, at the Worcester Centrum is a notable example from the Fall 1998 tour, lasting 24 minutes. Known for its spacey and ambient qualities, this performance features a captivating rhythmic shift that creates an exploratory atmosphere. Fans appreciate this version for its adventurous spirit and the band's seamless transitions throughout the jam."
+    },
+    "2001-1997-09-29": {
+      "song": "2001",
+      "date": "1997-09-29",
+      "venue": "Las Vegas",
+      "duration_minutes": "12",
+      "era": "Fall 1997",
+      "ai_description": "The jam of \"2001\" performed on September 29, 1997, in Las Vegas is well-known for its infectious funk grooves and danceable rhythms, characteristic of the Fall 1997 era. Clocking in at 12 minutes, this version maintains a minimal peak, allowing the listeners to sink into the groove without overwhelming climaxes, making it a standout moment in Phish's live repertoire."
+    },
+    "sand-1999-09-14": {
+      "song": "Sand",
+      "date": "1999-09-14",
+      "venue": "Boise State University",
+      "duration_minutes": "18",
+      "era": "1999",
+      "ai_description": "The 18-minute jam of \"Sand\" from Phish's performance at Boise State University on September 14, 1999, is noted for its deep, ambient grooves and a patient build that develops throughout. This era of the band showcases a layered sound, with intricate interplay between the musicians that invites listeners into a mesmerizing auditory experience. Fans often appreciate the rhythmic exploration and the dynamic flow within this particular rendition."
+    },
+    "chalk_dust_torture-1999-07-10": {
+      "song": "Chalk Dust Torture",
+      "date": "1999-07-10",
+      "venue": "Deer Creek",
+      "duration_minutes": "27",
+      "era": "Summer 1999",
+      "ai_description": "The \"Chalk Dust Torture\" jam from July 10, 1999, at Deer Creek is notable for its extended 27-minute exploration. This performance showcases a patient build that gradually unfolds into a blissful climax, capturing the essence of the Summer 1999 era. The musicians collectively create a captivating long-form jam, culminating in a major resolution that leaves a lasting impression on listeners."
+    },
+    "tweezer-1999-12-31": {
+      "song": "Tweezer",
+      "date": "1999-12-31",
+      "venue": "Big Cypress",
+      "duration_minutes": "36",
+      "era": "1999",
+      "ai_description": "The 'Tweezer' jam from Phish's New Year's Eve show on December 31, 1999, at Big Cypress is a notable performance, lasting 36 minutes. Known for its ambient and atmospheric qualities, the jam unfolds patiently, creating a deep, explorative soundscape that captivates listeners. This extended version is often celebrated for its experimental nature, showcasing the band’s ability to navigate intricate musical spaces."
+    },
+    "rock_and_roll-2000-06-14": {
+      "song": "Rock and Roll",
+      "date": "2000-06-14",
+      "venue": "Fukuoka",
+      "duration_minutes": "27",
+      "era": "2000",
+      "ai_description": "The \"Rock and Roll\" jam from June 14, 2000, in Fukuoka is notable for its ambient and spacey qualities, lasting an impressive 27 minutes. This performance showcases a subtle build and an exploratory nature, allowing the band to dive deep into innovative soundscapes. Fans appreciate this jam for its willingness to push boundaries while maintaining a cohesive and immersive atmosphere."
+    },
+    "twist-2000-06-14": {
+      "song": "Twist",
+      "date": "2000-06-14",
+      "venue": "Fukuoka",
+      "duration_minutes": "20",
+      "era": "2000",
+      "ai_description": "The \"Twist\" jam from June 14, 2000, in Fukuoka is renowned for its extended 20-minute exploration, showcasing a captivating blend of groove and ambient textures. This performance exemplifies the band's patient approach, as the music gradually evolves with a dissolving structure that invites listeners into a deep, immersive sonic journey. Fans often highlight this jam for its intricate dynamics and unique atmosphere, characteristic of the 2000 era."
+    },
+    "piper-2000-07-06": {
+      "song": "Piper",
+      "date": "2000-07-06",
+      "venue": "Hartford",
+      "duration_minutes": "19",
+      "era": "2000",
+      "ai_description": "The \"Piper\" jam from July 6, 2000, in Hartford is notable for its high-energy build and sustained tension throughout its 19-minute duration. This performance showcases the band's ability to craft a major peak, creating an exhilarating experience for listeners. The intricate interplay between musicians highlights the creativity and intensity characteristic of the 2000 era."
+    },
+    "down_with_disease-1999-09-12": {
+      "song": "Down with Disease",
+      "date": "1999-09-12",
+      "venue": "Portland Meadows",
+      "duration_minutes": "20",
+      "era": "1999",
+      "ai_description": "The \"Down with Disease\" jam from September 12, 1999, at Portland Meadows is known for its expansive 20-minute duration. This performance is characterized by its groove-driven rhythmic shifts and an exploratory nature, showcasing the band's ability to weave intricate melodies and complex improvisation. Fans often appreciate this jam for its captivating rhythmic explorations and the seamless transitions throughout the performance."
+    },
+    "scents_and_subtle_sounds-2003-02-28": {
+      "song": "Scents and Subtle Sounds",
+      "date": "2003-02-28",
+      "venue": "Nassau Coliseum",
+      "duration_minutes": "23",
+      "era": "2.0",
+      "ai_description": "The \"Scents and Subtle Sounds\" jam from Phish's performance on February 28, 2003, at Nassau Coliseum is notable for its dark and layered progression, lasting 23 minutes. Emerging from the band's 2.0 era, the jam is characterized by a haunting tension and a compelling use of minor key elements. This rendition is often appreciated by fans for its intricate interplay and emotional depth."
+    },
+    "crosseyed_and_painless-2004-06-19": {
+      "song": "Crosseyed and Painless",
+      "date": "2004-06-19",
+      "venue": "Saratoga Springs",
+      "duration_minutes": "25",
+      "era": "2.0",
+      "ai_description": "The jam of \"Crosseyed and Painless\" on June 19, 2004, at Saratoga Springs is notable for its extended 25-minute duration, showcasing a deep exploration of groove and dissonance. This long-form jam from the 2.0 era is characterized by its rhythmic intensity, illustrating Phish's ability to create a captivating atmosphere while pushing musical boundaries. Fans often recognize this performance for its intricate interplay and improvisational creativity."
+    },
+    "piper-2003-07-15": {
+      "song": "Piper",
+      "date": "2003-07-15",
+      "venue": "Utica",
+      "duration_minutes": "21",
+      "era": "2.0",
+      "ai_description": "The jam from \"Piper\" performed on July 15, 2003, in Utica is known for its heavy groove and dark, tense atmosphere. Lasting 21 minutes, this 2.0 era rendition features chaotic explorations that showcase the band's intricate improvisation and ability to build intensity. Fans appreciate it for its compelling dynamics and the unique twist it brings to the classic composition."
+    },
+    "seven_below-2003-02-28": {
+      "song": "Seven Below",
+      "date": "2003-02-28",
+      "venue": "Nassau Coliseum",
+      "duration_minutes": "28",
+      "era": "2.0",
+      "ai_description": "The \"Seven Below\" jam from February 28, 2003, at Nassau Coliseum is a standout example from Phish's 2.0 era, lasting an impressive 28 minutes. Known for its ambient and swirling textures, this jam features layered, spacey vibes that create an immersive listening experience. Fans appreciate its unique exploration of sound that showcases the band’s improvisational prowess during this period."
+    },
+    "ghost-2004-08-10": {
+      "song": "Ghost",
+      "date": "2004-08-10",
+      "venue": "Camden",
+      "duration_minutes": "22",
+      "era": "2.0",
+      "ai_description": "The jam of \"Ghost\" played on August 10, 2004, in Camden is known for its dark groove and tension, characteristic of the 2.0 era. Clocking in at 22 minutes, this extended rendition showcases Phish's improvisational prowess, weaving intricate musical themes that build an immersive atmosphere. Fans appreciate this jam for its depth and the way it explores darker tonalities, making it a standout moment from the show."
+    },
+    "tweezer-2015-08-22": {
+      "song": "Tweezer",
+      "date": "2015-08-22",
+      "venue": "Magnaball",
+      "duration_minutes": "46",
+      "era": "3.0",
+      "ai_description": "The \"Tweezer\" jam from Phish's Magnaball on August 22, 2015, is a celebrated performance that spans 46 minutes, showcasing the band's improvisational prowess during the 3.0 era. This long-form jam features a blissful exploration of sound, culminating in major peaks that evoke a sense of celebration among fans. Its extended format and dynamic interplay make it a standout moment in the band's live repertoire."
+    },
+    "simple-2022-04-21": {
+      "song": "Simple",
+      "date": "2022-04-21",
+      "venue": "New York",
+      "duration_minutes": "30",
+      "era": "4.0",
+      "ai_description": "The 30-minute jam of \"Simple\" performed on April 21, 2022, in New York is a standout example from Phish's 4.0 era, showcasing their modern sound characterized by rich synth textures. Known for its patient and exploratory approach, this performance captivates listeners with its evolving layers and innovative improvisation, making it a memorable highlight for fans of the band."
+    },
+    "ruby_waves-2019-07-14": {
+      "song": "Ruby Waves",
+      "date": "2019-07-14",
+      "venue": "Alpine Valley",
+      "duration_minutes": "38",
+      "era": "3.0",
+      "ai_description": "The \"Ruby Waves\" jam from July 14, 2019, at Alpine Valley is notable for its expansive 38-minute duration, showcasing the band’s ability to create an uplifting and blissful soundscape. Characterized by a long peak and played in a major key, this jam is a prime example of the band’s 3.0 era, featuring a vibrant and energetic flow that resonates with fans looking for a captivating musical experience."
+    },
+    "no_men_in_no_man_s_land-2017-07-21": {
+      "song": "No Men In No Man's Land",
+      "date": "2017-07-21",
+      "venue": "Madison Square Garden",
+      "duration_minutes": "20",
+      "era": "3.0",
+      "ai_description": "The \"No Men In No Man's Land\" jam from July 21, 2017, at Madison Square Garden is notable for its 20-minute exploration within the 3.0 era, showcasing a modern funk style. The performance features a layered build characteristic of the band's groove-oriented jams, making it a standout moment in their catalogue. This rendition exemplifies the band's ability to weave intricate musical themes into a cohesive and engaging experience."
+    },
+    "everything_s_right-2018-08-31": {
+      "song": "Everything's Right",
+      "date": "2018-08-31",
+      "venue": "Dicks",
+      "duration_minutes": "21",
+      "era": "3.0",
+      "ai_description": "The jam of \"Everything's Right\" from Phish's performance on August 31, 2018, at Dick's Sporting Goods Park is notable for its blissful qualities and major resolution. Lasting 21 minutes, this jam showcases a strong rhythmic drive, which characterizes the band's 3.0 era improvisation. Fans appreciate this segment for its uplifting and expansive musical journey."
+    },
+    "carini-2017-08-06": {
+      "song": "Carini",
+      "date": "2017-08-06",
+      "venue": "Bakers Dozen",
+      "duration_minutes": "20",
+      "era": "3.0",
+      "ai_description": "The Carini jam from August 6, 2017, during the Baker's Dozen, is notable for its deep, dark atmosphere and heavy groove. Clocking in at 20 minutes, this 3.0 era performance showcases a tense exploration in a minor key, captivating fans with its intense feel and intricate transitions. Its extended jam highlights Phish's ability to navigate complex musical landscapes while maintaining a compelling rhythm."
+    },
+    "light-2012-08-31": {
+      "song": "Light",
+      "date": "2012-08-31",
+      "venue": "Dicks",
+      "duration_minutes": "22",
+      "era": "3.0",
+      "ai_description": "This 22-minute jam of \"Light\" from August 31, 2012, at Dick's Sporting Goods Park is a standout example from Phish's 3.0 era, known for its uplifting and melodic peak. The jam features a sustained build that takes listeners on an emotive journey, showcasing the band's ability to craft intricate and engaging improvisation. Fans often highlight this performance for its cohesive energy and memorable exploration."
+    },
+    "fuego-2014-07-04": {
+      "song": "Fuego",
+      "date": "2014-07-04",
+      "venue": "Saratoga Springs",
+      "duration_minutes": "23",
+      "era": "3.0",
+      "ai_description": "The \"Fuego\" jam from Phish's performance on July 4, 2014, in Saratoga Springs is known for its impressive 23-minute duration and captivating dynamic build. This 3.0 era rendition features a rich groove and notable rhythmic shifts, making it a standout moment in the band's live catalog. Fans appreciate this jam for its intricate interplay and sustained energy throughout the performance."
+    },
+    "bathtub_gin-2015-07-26": {
+      "song": "Bathtub Gin",
+      "date": "2015-07-26",
+      "venue": "Merriweather",
+      "duration_minutes": "24",
+      "era": "3.0",
+      "ai_description": "This 24-minute jam of \"Bathtub Gin,\" performed on July 26, 2015, at Merriweather, is celebrated for its blissful and melodic qualities. As part of the 3.0 era, this rendition features an uplifting sound that builds to a sustained peak, showcasing the band’s ability to create an immersive and euphoric musical experience. Fans often highlight this performance for its cohesive flow and emotional depth."
+    },
+    "prince_caspian-1998-08-17": {
+      "song": "Prince Caspian",
+      "date": "1998-08-17",
+      "venue": "Limestone",
+      "duration_minutes": "12",
+      "era": "Summer 1998",
+      "ai_description": "The \"Prince Caspian\" jam from August 17, 1998, at Limestone is a notable performance within the Summer 1998 era, lasting 12 minutes. Known for its melodic structure, this jam features an uplifting vibe that culminates in a major peak, showcasing the band's improvisational skills. Fans often highlight this rendition for its energetic and positive atmosphere."
+    },
+    "cities-1997-08-10": {
+      "song": "Cities",
+      "date": "1997-08-10",
+      "venue": "Deer Creek",
+      "duration_minutes": "18",
+      "era": "Summer 1997",
+      "ai_description": "The \"Cities\" jam from Deer Creek on August 10, 1997, is renowned for its extended 18-minute improvisation, characteristic of the Summer 1997 era. This performance is notable for its groovy rhythm and intricate layered textures, showcasing Phish's ability to shift dynamics and explore rhythmic variations throughout the piece. Fans appreciate this jam for its deep groove and the seamless interplay between band members, making it a standout moment from the tour."
+    },
+    "disease-1997-12-07": {
+      "song": "Disease",
+      "date": "1997-12-07",
+      "venue": "Auburn Hills",
+      "duration_minutes": "18",
+      "era": "Fall 1997",
+      "ai_description": "The \"Disease\" jam from December 7, 1997, at Auburn Hills is renowned for its dynamic and funky improvisation that spans 18 minutes. This performance showcases intricate rhythmic interplay among band members, characteristic of the Fall 1997 era. Fans appreciate its infectious groove and the way each member contributes to the evolving soundscape, making it a standout moment in Phish's catalog."
+    },
+    "sneakin_sally-1997-08-02": {
+      "song": "Sneakin Sally",
+      "date": "1997-08-02",
+      "venue": "Deer Creek",
+      "duration_minutes": "19",
+      "era": "Summer 1997",
+      "ai_description": "The live jam of \"Sneakin Sally\" performed on August 2, 1997, at Deer Creek is renowned for its 19-minute exploration of groove and layered build. Known for its danceable rhythm, this performance embodies the Summer 1997 era's vibrant energy and improvisational spirit. Fans appreciate the intricate interplay between band members, making it a standout moment in Phish's live catalog."
+    },
+    "maze-1995-06-22": {
+      "song": "Maze",
+      "date": "1995-06-22",
+      "venue": "Waterloo Village",
+      "duration_minutes": "12",
+      "era": "Mid 90s",
+      "ai_description": "This rendition of \"Maze,\" performed on June 22, 1995, at Waterloo Village, is notable for its intense 12-minute exploration of tension and dissonance. Characteristic of the mid-90s era, the jam is high energy and showcases the band's ability to maintain a frenetic pace while navigating complex musical interactions. Fans often highlight its gripping improvisation and the palpable sense of urgency throughout the performance."
+    },
+    "harry_hood-1998-11-13": {
+      "song": "Harry Hood",
+      "date": "1998-11-13",
+      "venue": "Las Vegas",
+      "duration_minutes": "16",
+      "era": "Fall 1998",
+      "ai_description": "The \"Harry Hood\" jam from November 13, 1998, in Las Vegas is known for its uplifting qualities and melodic peak that showcases the band's improvisational prowess from the Fall 1998 era. Spanning 16 minutes, this performance culminates in a major resolution, creating an exhilarating and memorable experience for listeners."
+    },
+    "runaway_jim-1997-11-29": {
+      "song": "Runaway Jim",
+      "date": "1997-11-29",
+      "venue": "Worcester",
+      "duration_minutes": "24",
+      "era": "Fall 1997",
+      "ai_description": "The \"Runaway Jim\" jam from November 29, 1997, in Worcester is a celebrated example of Phish's exploratory style during the Fall 1997 tour. Lasting 24 minutes, this performance is noted for its intricate rhythmic build and dynamic interplay among the band members. Fans appreciate its immersive quality and the way it showcases Phish's ability to create a captivating soundscape."
+    },
+    "golden_age-2016-10-30": {
+      "song": "Golden Age",
+      "date": "2016-10-30",
+      "venue": "Las Vegas",
+      "duration_minutes": "26",
+      "era": "3.0",
+      "ai_description": "The jam of \"Golden Age\" performed on October 30, 2016, in Las Vegas is known for its extended 26-minute exploration, showcasing the band's signature 3.0 era style. Characterized by a deep groove and layered textures, this performance invites listeners into an immersive sonic experience, blending exploratory improvisation with rhythmic intricacy. Its dynamic development and cohesive interplay highlight Phish's ability to create captivating live moments."
+    },
+    "tweezer-2013-12-30": {
+      "song": "Tweezer",
+      "date": "2013-12-30",
+      "venue": "Madison Square Garden",
+      "duration_minutes": "25",
+      "era": "3.0",
+      "ai_description": "The \"Tweezer\" jam from December 30, 2013, at Madison Square Garden is a notable 25-minute exploration characteristic of the 3.0 era. This dynamic version is celebrated for its modern exploratory approach, building to intense peaks that showcase the band's improvisational skill and cohesion. Fans often highlight its innovative transitions and engaging peaks, making it a standout performance in Phish's catalog."
+    },
+    "mercury-2021-08-31": {
+      "song": "Mercury",
+      "date": "2021-08-31",
+      "venue": "Shoreline",
+      "duration_minutes": "23",
+      "era": "4.0",
+      "ai_description": "The jam from \"Mercury\" performed on August 31, 2021, at Shoreline is notable for its 23-minute duration, showcasing the band's 4.0 era style. This performance is characterized by a modern, atmospheric sound with a patient build, incorporating synth elements that create a captivating experience for listeners. It exemplifies the band's ability to weave intricate soundscapes while maintaining an engaging flow throughout the jam."
+    },
+    "a_song_i_heard_the_ocean_sing-2017-07-23": {
+      "song": "A Song I Heard The Ocean Sing",
+      "date": "2017-07-23",
+      "venue": "Madison Square Garden",
+      "duration_minutes": "18",
+      "era": "3.0",
+      "ai_description": "On July 23, 2017, at Madison Square Garden, Phish delivered an 18-minute jam of \"A Song I Heard The Ocean Sing,\" notable for its ambient and layered soundscape. This performance exemplifies the band's 3.0 era, showcasing a spacey exploration that emphasizes texture and atmosphere, making it a highlight for fans who appreciate the band's experimental tendencies."
+    },
+    "wave_of_hope-2022-08-05": {
+      "song": "Wave of Hope",
+      "date": "2022-08-05",
+      "venue": "Atlantic City",
+      "duration_minutes": "20",
+      "era": "4.0",
+      "ai_description": "The \"Wave of Hope\" jam from August 5, 2022, in Atlantic City is a standout 20-minute segment known for its modern sound and blissful vibes. Characteristic of the 4.0 era, this jam features a rhythmic build that captivates listeners, showcasing the band's improvisational prowess and ability to create a euphoric atmosphere. Fans appreciate its intricate interplay and dynamic shifts, making it a memorable highlight of this performance."
+    },
+    "the_wedge-1993-08-02": {
+      "song": "The Wedge",
+      "date": "1993-08-02",
+      "venue": "Waterloo Village",
+      "duration_minutes": "10",
+      "era": "Early 90s",
+      "ai_description": "The Wedge from Phish's performance on August 2, 1993, at Waterloo Village is a notable jam known for its melodic and energetic qualities. Spanning 10 minutes, this early '90s rendition features a composed peak that showcases the band's intricate musicianship and ability to build dynamic tension."
+    },
+    "split_open_and_melt-1994-06-11": {
+      "song": "Split Open and Melt",
+      "date": "1994-06-11",
+      "venue": "Red Rocks",
+      "duration_minutes": "20",
+      "era": "Mid 90s",
+      "ai_description": "The \"Split Open and Melt\" jam from June 11, 1994, at Red Rocks is renowned for its dark and dissonant qualities, showcasing Phish's mid-90s experimentation with tension and chaos. Spanning 20 minutes, the performance is marked by a relentless exploration of musical dissonance, making it a standout example of the band's ability to create intense, unpredictable soundscapes during this era. Fans often appreciate the intricacies and the emotional weight carried throughout this captivating jam."
+    },
+    "you_enjoy_myself-1995-12-09": {
+      "song": "You Enjoy Myself",
+      "date": "1995-12-09",
+      "venue": "Knoxville",
+      "duration_minutes": "20",
+      "era": "Mid 90s",
+      "ai_description": "The \"You Enjoy Myself\" jam from December 9, 1995, in Knoxville is a notable performance with a duration of 20 minutes, showcasing the band's signature exploratory style from the mid-'90s era. This version features a compelling interplay of composed sections and an engaging vocal jam, culminating in a powerful peak that highlights Phish's improvisational prowess during this period."
+    },
+    "fluffhead-1994-04-16": {
+      "song": "Fluffhead",
+      "date": "1994-04-16",
+      "venue": "Beacon Theatre",
+      "duration_minutes": "15",
+      "era": "Mid 90s",
+      "ai_description": "The \"Fluffhead\" jam from April 16, 1994, at the Beacon Theatre is notable for its energetic and composed style, lasting 15 minutes. Known for its intricate melodies, this performance exemplifies the band's mid-90s peak creativity, blending complex arrangements with an uplifting energy that engages the audience. Fans appreciate this rendition for its seamless transitions and dynamic peaks throughout the jam."
+    }
+  }
+}

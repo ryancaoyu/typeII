@@ -1,0 +1,253 @@
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "pipeline_start", "data": {"row_count": 50, "force": false, "existing_count": 0}, "timestamp": 1771766560640, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 0, "jam_id": "reba-1995-12-31", "use_cache": false}, "timestamp": 1771766560640, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "reba-1995-12-31"}, "timestamp": 1771766560640, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "reba-1995-12-31"}, "timestamp": 1771766562732, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "reba-1995-12-31"}, "timestamp": 1771766562740, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "reba-1995-12-31"}, "timestamp": 1771766562850, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 1, "jam_id": "david_bowie-1994-12-29", "use_cache": false}, "timestamp": 1771766562851, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "david_bowie-1994-12-29"}, "timestamp": 1771766562851, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "david_bowie-1994-12-29"}, "timestamp": 1771766564791, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "david_bowie-1994-12-29"}, "timestamp": 1771766564792, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "david_bowie-1994-12-29"}, "timestamp": 1771766565053, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 2, "jam_id": "tweezer-1995-12-30", "use_cache": false}, "timestamp": 1771766565053, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "tweezer-1995-12-30"}, "timestamp": 1771766565054, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "tweezer-1995-12-30"}, "timestamp": 1771766567633, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "tweezer-1995-12-30"}, "timestamp": 1771766567634, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "tweezer-1995-12-30"}, "timestamp": 1771766567735, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 3, "jam_id": "stash-1994-11-14", "use_cache": false}, "timestamp": 1771766567736, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "stash-1994-11-14"}, "timestamp": 1771766567736, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "stash-1994-11-14"}, "timestamp": 1771766569782, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "stash-1994-11-14"}, "timestamp": 1771766569783, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "stash-1994-11-14"}, "timestamp": 1771766569927, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 4, "jam_id": "run_like_an_antelope-1995-10-31", "use_cache": false}, "timestamp": 1771766569928, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "run_like_an_antelope-1995-10-31"}, "timestamp": 1771766569929, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "run_like_an_antelope-1995-10-31"}, "timestamp": 1771766572169, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "run_like_an_antelope-1995-10-31"}, "timestamp": 1771766572170, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "run_like_an_antelope-1995-10-31"}, "timestamp": 1771766572295, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 5, "jam_id": "ghost-1997-11-17", "use_cache": false}, "timestamp": 1771766572298, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "ghost-1997-11-17"}, "timestamp": 1771766572299, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "ghost-1997-11-17"}, "timestamp": 1771766574075, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "ghost-1997-11-17"}, "timestamp": 1771766574076, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "ghost-1997-11-17"}, "timestamp": 1771766574213, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 6, "jam_id": "tube-1997-12-29", "use_cache": false}, "timestamp": 1771766574214, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "tube-1997-12-29"}, "timestamp": 1771766574214, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "tube-1997-12-29"}, "timestamp": 1771766576466, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "tube-1997-12-29"}, "timestamp": 1771766576467, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "tube-1997-12-29"}, "timestamp": 1771766576605, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 7, "jam_id": "tweezer-1997-12-06", "use_cache": false}, "timestamp": 1771766576606, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "tweezer-1997-12-06"}, "timestamp": 1771766576606, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "tweezer-1997-12-06"}, "timestamp": 1771766578673, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "tweezer-1997-12-06"}, "timestamp": 1771766578674, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "tweezer-1997-12-06"}, "timestamp": 1771766578778, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 8, "jam_id": "bathtub_gin-1997-08-17", "use_cache": false}, "timestamp": 1771766578779, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "bathtub_gin-1997-08-17"}, "timestamp": 1771766578779, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "bathtub_gin-1997-08-17"}, "timestamp": 1771766580123, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "bathtub_gin-1997-08-17"}, "timestamp": 1771766580123, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "bathtub_gin-1997-08-17"}, "timestamp": 1771766580277, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 9, "jam_id": "simple-1997-08-16", "use_cache": false}, "timestamp": 1771766580277, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "simple-1997-08-16"}, "timestamp": 1771766580278, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "simple-1997-08-16"}, "timestamp": 1771766582374, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "simple-1997-08-16"}, "timestamp": 1771766582375, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "simple-1997-08-16"}, "timestamp": 1771766582515, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 10, "jam_id": "wolfman_s_brother-1998-07-02", "use_cache": false}, "timestamp": 1771766582516, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "wolfman_s_brother-1998-07-02"}, "timestamp": 1771766582516, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "wolfman_s_brother-1998-07-02"}, "timestamp": 1771766584175, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "wolfman_s_brother-1998-07-02"}, "timestamp": 1771766584175, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "wolfman_s_brother-1998-07-02"}, "timestamp": 1771766584318, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 11, "jam_id": "halley_s_comet-1998-11-07", "use_cache": false}, "timestamp": 1771766584319, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "halley_s_comet-1998-11-07"}, "timestamp": 1771766584319, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "halley_s_comet-1998-11-07"}, "timestamp": 1771766586847, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "halley_s_comet-1998-11-07"}, "timestamp": 1771766586848, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "halley_s_comet-1998-11-07"}, "timestamp": 1771766586977, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 12, "jam_id": "2001-1997-09-29", "use_cache": false}, "timestamp": 1771766586977, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "2001-1997-09-29"}, "timestamp": 1771766586978, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "2001-1997-09-29"}, "timestamp": 1771766588833, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "2001-1997-09-29"}, "timestamp": 1771766588834, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "2001-1997-09-29"}, "timestamp": 1771766588990, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 13, "jam_id": "sand-1999-09-14", "use_cache": false}, "timestamp": 1771766588991, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "sand-1999-09-14"}, "timestamp": 1771766588991, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "sand-1999-09-14"}, "timestamp": 1771766590836, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "sand-1999-09-14"}, "timestamp": 1771766590837, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "sand-1999-09-14"}, "timestamp": 1771766591042, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 14, "jam_id": "chalk_dust_torture-1999-07-10", "use_cache": false}, "timestamp": 1771766591042, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "chalk_dust_torture-1999-07-10"}, "timestamp": 1771766591043, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "chalk_dust_torture-1999-07-10"}, "timestamp": 1771766593605, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "chalk_dust_torture-1999-07-10"}, "timestamp": 1771766593605, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "chalk_dust_torture-1999-07-10"}, "timestamp": 1771766593743, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 15, "jam_id": "tweezer-1999-12-31", "use_cache": false}, "timestamp": 1771766593744, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "tweezer-1999-12-31"}, "timestamp": 1771766593744, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "tweezer-1999-12-31"}, "timestamp": 1771766596521, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "tweezer-1999-12-31"}, "timestamp": 1771766596521, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "tweezer-1999-12-31"}, "timestamp": 1771766596666, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 16, "jam_id": "rock_and_roll-2000-06-14", "use_cache": false}, "timestamp": 1771766596667, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "rock_and_roll-2000-06-14"}, "timestamp": 1771766596668, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "rock_and_roll-2000-06-14"}, "timestamp": 1771766598554, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "rock_and_roll-2000-06-14"}, "timestamp": 1771766598555, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "rock_and_roll-2000-06-14"}, "timestamp": 1771766598704, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 17, "jam_id": "twist-2000-06-14", "use_cache": false}, "timestamp": 1771766598705, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "twist-2000-06-14"}, "timestamp": 1771766598705, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "twist-2000-06-14"}, "timestamp": 1771766600529, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "twist-2000-06-14"}, "timestamp": 1771766600531, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "twist-2000-06-14"}, "timestamp": 1771766600705, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 18, "jam_id": "piper-2000-07-06", "use_cache": false}, "timestamp": 1771766600706, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "piper-2000-07-06"}, "timestamp": 1771766600707, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "piper-2000-07-06"}, "timestamp": 1771766602448, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "piper-2000-07-06"}, "timestamp": 1771766602449, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "piper-2000-07-06"}, "timestamp": 1771766602549, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 19, "jam_id": "down_with_disease-1999-09-12", "use_cache": false}, "timestamp": 1771766602549, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "down_with_disease-1999-09-12"}, "timestamp": 1771766602549, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "down_with_disease-1999-09-12"}, "timestamp": 1771766604861, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "down_with_disease-1999-09-12"}, "timestamp": 1771766604862, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "down_with_disease-1999-09-12"}, "timestamp": 1771766604968, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 20, "jam_id": "scents_and_subtle_sounds-2003-02-28", "use_cache": false}, "timestamp": 1771766604969, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "scents_and_subtle_sounds-2003-02-28"}, "timestamp": 1771766604969, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "scents_and_subtle_sounds-2003-02-28"}, "timestamp": 1771766606785, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "scents_and_subtle_sounds-2003-02-28"}, "timestamp": 1771766606786, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "scents_and_subtle_sounds-2003-02-28"}, "timestamp": 1771766607053, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 21, "jam_id": "crosseyed_and_painless-2004-06-19", "use_cache": false}, "timestamp": 1771766607053, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "crosseyed_and_painless-2004-06-19"}, "timestamp": 1771766607053, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "crosseyed_and_painless-2004-06-19"}, "timestamp": 1771766609177, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "crosseyed_and_painless-2004-06-19"}, "timestamp": 1771766609178, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "crosseyed_and_painless-2004-06-19"}, "timestamp": 1771766609615, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 22, "jam_id": "piper-2003-07-15", "use_cache": false}, "timestamp": 1771766609616, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "piper-2003-07-15"}, "timestamp": 1771766609616, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "piper-2003-07-15"}, "timestamp": 1771766611369, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "piper-2003-07-15"}, "timestamp": 1771766611369, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "piper-2003-07-15"}, "timestamp": 1771766611522, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 23, "jam_id": "seven_below-2003-02-28", "use_cache": false}, "timestamp": 1771766611523, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "seven_below-2003-02-28"}, "timestamp": 1771766611523, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "seven_below-2003-02-28"}, "timestamp": 1771766613215, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "seven_below-2003-02-28"}, "timestamp": 1771766613215, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "seven_below-2003-02-28"}, "timestamp": 1771766613383, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 24, "jam_id": "ghost-2004-08-10", "use_cache": false}, "timestamp": 1771766613384, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "ghost-2004-08-10"}, "timestamp": 1771766613384, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "ghost-2004-08-10"}, "timestamp": 1771766616269, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "ghost-2004-08-10"}, "timestamp": 1771766616269, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "ghost-2004-08-10"}, "timestamp": 1771766616399, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 25, "jam_id": "tweezer-2015-08-22", "use_cache": false}, "timestamp": 1771766616400, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "tweezer-2015-08-22"}, "timestamp": 1771766616400, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "tweezer-2015-08-22"}, "timestamp": 1771766619091, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "tweezer-2015-08-22"}, "timestamp": 1771766619092, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "tweezer-2015-08-22"}, "timestamp": 1771766619241, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 26, "jam_id": "simple-2022-04-21", "use_cache": false}, "timestamp": 1771766619241, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "simple-2022-04-21"}, "timestamp": 1771766619242, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "simple-2022-04-21"}, "timestamp": 1771766621187, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "simple-2022-04-21"}, "timestamp": 1771766621188, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "simple-2022-04-21"}, "timestamp": 1771766621367, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 27, "jam_id": "ruby_waves-2019-07-14", "use_cache": false}, "timestamp": 1771766621367, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "ruby_waves-2019-07-14"}, "timestamp": 1771766621368, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "ruby_waves-2019-07-14"}, "timestamp": 1771766623132, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "ruby_waves-2019-07-14"}, "timestamp": 1771766623132, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "ruby_waves-2019-07-14"}, "timestamp": 1771766623307, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 28, "jam_id": "no_men_in_no_man_s_land-2017-07-21", "use_cache": false}, "timestamp": 1771766623308, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "no_men_in_no_man_s_land-2017-07-21"}, "timestamp": 1771766623309, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "no_men_in_no_man_s_land-2017-07-21"}, "timestamp": 1771766625560, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "no_men_in_no_man_s_land-2017-07-21"}, "timestamp": 1771766625561, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "no_men_in_no_man_s_land-2017-07-21"}, "timestamp": 1771766625708, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 29, "jam_id": "everything_s_right-2018-08-31", "use_cache": false}, "timestamp": 1771766625709, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "everything_s_right-2018-08-31"}, "timestamp": 1771766625710, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "everything_s_right-2018-08-31"}, "timestamp": 1771766627553, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "everything_s_right-2018-08-31"}, "timestamp": 1771766627554, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "everything_s_right-2018-08-31"}, "timestamp": 1771766627718, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 30, "jam_id": "carini-2017-08-06", "use_cache": false}, "timestamp": 1771766627719, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "carini-2017-08-06"}, "timestamp": 1771766627719, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "carini-2017-08-06"}, "timestamp": 1771766629481, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "carini-2017-08-06"}, "timestamp": 1771766629482, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "carini-2017-08-06"}, "timestamp": 1771766629604, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 31, "jam_id": "light-2012-08-31", "use_cache": false}, "timestamp": 1771766629605, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "light-2012-08-31"}, "timestamp": 1771766629606, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "light-2012-08-31"}, "timestamp": 1771766631423, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "light-2012-08-31"}, "timestamp": 1771766631424, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "light-2012-08-31"}, "timestamp": 1771766631583, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 32, "jam_id": "fuego-2014-07-04", "use_cache": false}, "timestamp": 1771766631583, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "fuego-2014-07-04"}, "timestamp": 1771766631584, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "fuego-2014-07-04"}, "timestamp": 1771766633137, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "fuego-2014-07-04"}, "timestamp": 1771766633138, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "fuego-2014-07-04"}, "timestamp": 1771766633307, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 33, "jam_id": "bathtub_gin-2015-07-26", "use_cache": false}, "timestamp": 1771766633307, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "bathtub_gin-2015-07-26"}, "timestamp": 1771766633308, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "bathtub_gin-2015-07-26"}, "timestamp": 1771766635215, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "bathtub_gin-2015-07-26"}, "timestamp": 1771766635216, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "bathtub_gin-2015-07-26"}, "timestamp": 1771766635419, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 34, "jam_id": "prince_caspian-1998-08-17", "use_cache": false}, "timestamp": 1771766635419, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "prince_caspian-1998-08-17"}, "timestamp": 1771766635419, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "prince_caspian-1998-08-17"}, "timestamp": 1771766638025, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "prince_caspian-1998-08-17"}, "timestamp": 1771766638025, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "prince_caspian-1998-08-17"}, "timestamp": 1771766638253, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 35, "jam_id": "cities-1997-08-10", "use_cache": false}, "timestamp": 1771766638253, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "cities-1997-08-10"}, "timestamp": 1771766638254, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "cities-1997-08-10"}, "timestamp": 1771766640335, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "cities-1997-08-10"}, "timestamp": 1771766640335, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "cities-1997-08-10"}, "timestamp": 1771766640537, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 36, "jam_id": "disease-1997-12-07", "use_cache": false}, "timestamp": 1771766640538, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "disease-1997-12-07"}, "timestamp": 1771766640538, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "disease-1997-12-07"}, "timestamp": 1771766644738, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "disease-1997-12-07"}, "timestamp": 1771766644739, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "disease-1997-12-07"}, "timestamp": 1771766644850, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 37, "jam_id": "sneakin_sally-1997-08-02", "use_cache": false}, "timestamp": 1771766644851, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "sneakin_sally-1997-08-02"}, "timestamp": 1771766644851, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "sneakin_sally-1997-08-02"}, "timestamp": 1771766646467, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "sneakin_sally-1997-08-02"}, "timestamp": 1771766646467, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "sneakin_sally-1997-08-02"}, "timestamp": 1771766646572, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 38, "jam_id": "maze-1995-06-22", "use_cache": false}, "timestamp": 1771766646573, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "maze-1995-06-22"}, "timestamp": 1771766646573, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "maze-1995-06-22"}, "timestamp": 1771766649282, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "maze-1995-06-22"}, "timestamp": 1771766649282, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "maze-1995-06-22"}, "timestamp": 1771766649576, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 39, "jam_id": "harry_hood-1998-11-13", "use_cache": false}, "timestamp": 1771766649576, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "harry_hood-1998-11-13"}, "timestamp": 1771766649577, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "harry_hood-1998-11-13"}, "timestamp": 1771766652008, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "harry_hood-1998-11-13"}, "timestamp": 1771766652009, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "harry_hood-1998-11-13"}, "timestamp": 1771766652137, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 40, "jam_id": "runaway_jim-1997-11-29", "use_cache": false}, "timestamp": 1771766652138, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "runaway_jim-1997-11-29"}, "timestamp": 1771766652138, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "runaway_jim-1997-11-29"}, "timestamp": 1771766653910, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "runaway_jim-1997-11-29"}, "timestamp": 1771766653911, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "runaway_jim-1997-11-29"}, "timestamp": 1771766654015, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 41, "jam_id": "golden_age-2016-10-30", "use_cache": false}, "timestamp": 1771766654015, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "golden_age-2016-10-30"}, "timestamp": 1771766654016, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "golden_age-2016-10-30"}, "timestamp": 1771766656104, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "golden_age-2016-10-30"}, "timestamp": 1771766656105, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "golden_age-2016-10-30"}, "timestamp": 1771766656270, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 42, "jam_id": "tweezer-2013-12-30", "use_cache": false}, "timestamp": 1771766656271, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "tweezer-2013-12-30"}, "timestamp": 1771766656271, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "tweezer-2013-12-30"}, "timestamp": 1771766658251, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "tweezer-2013-12-30"}, "timestamp": 1771766658251, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "tweezer-2013-12-30"}, "timestamp": 1771766658455, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 43, "jam_id": "mercury-2021-08-31", "use_cache": false}, "timestamp": 1771766658456, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "mercury-2021-08-31"}, "timestamp": 1771766658456, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "mercury-2021-08-31"}, "timestamp": 1771766660507, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "mercury-2021-08-31"}, "timestamp": 1771766660508, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "mercury-2021-08-31"}, "timestamp": 1771766660610, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 44, "jam_id": "a_song_i_heard_the_ocean_sing-2017-07-23", "use_cache": false}, "timestamp": 1771766660611, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "a_song_i_heard_the_ocean_sing-2017-07-23"}, "timestamp": 1771766660611, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "a_song_i_heard_the_ocean_sing-2017-07-23"}, "timestamp": 1771766662310, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "a_song_i_heard_the_ocean_sing-2017-07-23"}, "timestamp": 1771766662311, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "a_song_i_heard_the_ocean_sing-2017-07-23"}, "timestamp": 1771766662525, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 45, "jam_id": "wave_of_hope-2022-08-05", "use_cache": false}, "timestamp": 1771766662525, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "wave_of_hope-2022-08-05"}, "timestamp": 1771766662526, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "wave_of_hope-2022-08-05"}, "timestamp": 1771766664806, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "wave_of_hope-2022-08-05"}, "timestamp": 1771766664807, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "wave_of_hope-2022-08-05"}, "timestamp": 1771766664940, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 46, "jam_id": "the_wedge-1993-08-02", "use_cache": false}, "timestamp": 1771766664941, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "the_wedge-1993-08-02"}, "timestamp": 1771766664942, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "the_wedge-1993-08-02"}, "timestamp": 1771766666318, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "the_wedge-1993-08-02"}, "timestamp": 1771766666319, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "the_wedge-1993-08-02"}, "timestamp": 1771766666439, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 47, "jam_id": "split_open_and_melt-1994-06-11", "use_cache": false}, "timestamp": 1771766666439, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "split_open_and_melt-1994-06-11"}, "timestamp": 1771766666440, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "split_open_and_melt-1994-06-11"}, "timestamp": 1771766668804, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "split_open_and_melt-1994-06-11"}, "timestamp": 1771766668805, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "split_open_and_melt-1994-06-11"}, "timestamp": 1771766668929, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 48, "jam_id": "you_enjoy_myself-1995-12-09", "use_cache": false}, "timestamp": 1771766668930, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "you_enjoy_myself-1995-12-09"}, "timestamp": 1771766668932, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "you_enjoy_myself-1995-12-09"}, "timestamp": 1771766670708, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "you_enjoy_myself-1995-12-09"}, "timestamp": 1771766670708, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "you_enjoy_myself-1995-12-09"}, "timestamp": 1771766670853, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_iter", "data": {"idx": 49, "jam_id": "fluffhead-1994-04-16", "use_cache": false}, "timestamp": 1771766670853, "hypothesisId": "H2"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_generate_description", "data": {"jam_id": "fluffhead-1994-04-16"}, "timestamp": 1771766670854, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_generate_description", "data": {"jam_id": "fluffhead-1994-04-16"}, "timestamp": 1771766672693, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "before_get_embedding", "data": {"jam_id": "fluffhead-1994-04-16"}, "timestamp": 1771766672694, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_get_embedding", "data": {"jam_id": "fluffhead-1994-04-16"}, "timestamp": 1771766672841, "hypothesisId": "H1"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "loop_done_before_faiss", "data": {"enriched_count": 50}, "timestamp": 1771766672841, "hypothesisId": "H4"}
+{"sessionId": "b0b67d", "location": "run_pipeline.py:main", "message": "after_faiss_write", "data": {}, "timestamp": 1771766672906, "hypothesisId": "H4"}
